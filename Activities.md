@@ -47,7 +47,7 @@
     <td>
       <ul>
         <li>Taller: Historia de vida y habilidades transferibles.</li>
-        <li>Píldora: About me y pitch. <a href=“https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0”>video</a></li>
+        <li>Píldora: About me y pitch. <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/">video</a></li>
         <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
       </ul>
     </td>
@@ -69,8 +69,8 @@
     <td>
       <ul>
         <li>Pildora: CV en la industria tech. <a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e">video</a></li>
-        <li>Pildora: Funcionamiento de Linkedin <a href=“https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b”>video</a></li>
-        <li>Píldora: Recomendaciones para la foto. <a href=“https://www.loom.com/share/cb019555280444ada9dacab2810fefdb”>video</a></li>
+        <li>Pildora: Funcionamiento de Linkedin. <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b">video</a></li>
+        <li>Píldora: Recomendaciones para la foto. <a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb">video</a></li>
         <li>Ayudantías con el equipo (opcionales).</li>
         <li>Q&A externxs / placement.</li>
       </ul>
@@ -88,8 +88,8 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Tips y buenas prácticas entrevista RRHH. <a href=“https://www.youtube.com/watch?v=HjOUpKgbdIM”>video</a></li>
-        <li>Píldora: Negociación salario y condiciones laborales. <a href=“https://www.loom.com/share/082a12d5a30a4f9bb1afd951ccba0b39”>video</a></li>
+        <li>Píldora: Tips y buenas prácticas entrevista RRHH. <a href="https://www.youtube.com/watch?v=HjOUpKgbdIM">video</a></li>
+        <li>Píldora: Negociación salario y condiciones laborales. <a href="https://www.loom.com/share/082a12d5a30a4f9bb1afd951ccba0b39">video</a></li>
       </ul>
     </td>
     <td>NA</td>
