@@ -78,7 +78,7 @@
     <td>Primera versión del CV + LinkedIn</td>
   </tr>
   <tr>
-    <td>Semana del 28 de Marzo y del 4 de Abril</td>
+    <td>Semanas del 4 y 18 de abril</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
