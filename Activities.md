@@ -223,7 +223,7 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Perfil de Github para la búsqueda de empleo.</li>
+        <li>Píldora: Perfil de Github para la búsqueda de empleo. <a href="https://www.youtube.com/watch?v=vQ_EBqgUR0c">video</a> y <a href="https://docs.google.com/presentation/d/1Ntaj8IuE4Fcbe6Pbwt1bZwu2f6brA468oKmK6Qefs5s/edit#slide=id.g123839b3b9b_0_0">PPT</a> </li>
         <li>Ayudantías para ver perfil de Github (opcionales).</li>
       </ul>
     </td>
