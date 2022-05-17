@@ -245,7 +245,7 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: Buenas prácticas entrevistas tech</li>
+        <li>Pildora: Buenas prácticas entrevistas tech <a href="https://www.youtube.com/watch?v=0NMil00HKEU">video</a></li>
       </ul>
     </td>
     <td>NA</td>
@@ -266,8 +266,9 @@
     <td>
       <ul>
         <li>Guía sesiones de mentoría (apartado en el read me).</li>
-        <li>Form autoevaluación estudiante.</li>
-        <li>Form evaluación entrevistadorx por parte de la estudiante.</li>
+        <li>Form autoevaluación estudiante y evaluación entrevistadorx por parte de la estudiante. 
+          <a href="https://forms.gle/izyFzDpL5aGqWHng8">Form</a>
+        </li>
       </ul>
     </td>
     <td>
